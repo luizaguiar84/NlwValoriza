@@ -3,14 +3,14 @@ import express from "express";
 
 const app = express();
 
-app.get("/test", (request,response) =>{
+app.get("/test", (request, response) => {
   //request > entrando
   // response > saindo
   return response.send("Olá NLW");
 });
 
-app.post("/test-post", (request, response)=> {
-return response.send("Teste POST");
+app.post("/test-post", (request, response) => {
+  return response.send("Teste POST");
 });
 
 //localhost:3000
