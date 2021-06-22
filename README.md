@@ -2,15 +2,15 @@
  
  ## Regras
  - Cadastro de usuários
-   - Não é permitido cadastrar mais de 1 usuário com o msm email
-   - Não eh permitido cadastro sem e-mail
+   - [x] Não é permitido cadastrar mais de 1 usuário com o mesmo e-mail;
+   - [x] Não é permitido cadastro sem e-mail;
 
 - Cadastro de TAG
-  - Não ]e permitido cadastrar mais de 1 tag com msm nome
-  - nao eh permitido cadastrar tag sem nome
-  - nao eh permitido cadastro por usuários q nao sejam admin
+  - [ ] Não é permitido cadastrar mais de 1 TAG com mesmo nome;
+  - [ ] Não é permitido cadastrar TAG sem nome;
+  - [ ] Não é permitido cadastro por usuários que não sejam admin;
 
 - Cadastro de elogios
-  - nao eh permitido um usuário cadastrar um elogio para si
-  - nao eh permitido cadastrar elogios para usuarios invalidos
-  - usuario precisa estar logado para cadastrar
+  - [ ] Não é permitido um usuário cadastrar um elogio para si próprio;
+  - [ ] Não é permitido cadastrar elogios para usuários inválidos;
+  - [ ] Usuário precisa estar logado para cadastrar;
