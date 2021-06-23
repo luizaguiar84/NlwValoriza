@@ -6,9 +6,9 @@
    - [x] Não é permitido cadastro sem e-mail;
 
 - Cadastro de TAG
-  - [ ] Não é permitido cadastrar mais de 1 TAG com mesmo nome;
-  - [ ] Não é permitido cadastrar TAG sem nome;
-  - [ ] Não é permitido cadastro por usuários que não sejam admin;
+  - [X] Não é permitido cadastrar mais de 1 TAG com mesmo nome;
+  - [X] Não é permitido cadastrar TAG sem nome;
+  - [x] Não é permitido cadastro por usuários que não sejam admin;
 
 - Cadastro de elogios
   - [ ] Não é permitido um usuário cadastrar um elogio para si próprio;
