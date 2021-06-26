@@ -11,6 +11,6 @@
   - [x] Não é permitido cadastro por usuários que não sejam admin;
 
 - Cadastro de elogios
-  - [ ] Não é permitido um usuário cadastrar um elogio para si próprio;
-  - [ ] Não é permitido cadastrar elogios para usuários inválidos;
-  - [ ] Usuário precisa estar logado para cadastrar;
+  - [X] Não é permitido um usuário cadastrar um elogio para si próprio;
+  - [X] Não é permitido cadastrar elogios para usuários inválidos;
+  - [X] Usuário precisa estar logado para cadastrar;

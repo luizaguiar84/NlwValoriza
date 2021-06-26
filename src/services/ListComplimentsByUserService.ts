@@ -1,0 +1,3 @@
+class ListComplimentsByUserService {}
+
+export { ListComplimentsByUserService };
